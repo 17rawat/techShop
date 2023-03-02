@@ -30,9 +30,13 @@ button {
   width: 90%;
   height: 40%;
 }
+
+.card > h2 {
+  font-size: 20px;
+}
 .card > p {
   padding: 10px;
-  font-size: 30px;
+  font-size: 20px;
 }
 .card:hover {
   box-shadow: 10px 10px 20px #ccc;
